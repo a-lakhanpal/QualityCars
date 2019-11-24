@@ -1,0 +1,88 @@
+/* CSS specific to customer pages */
+
+.sideBar .sbInner {
+	background: #c7dcff;
+	width: 252px;
+	text-align:center;
+}
+
+ul.totals {
+	border-bottom: 1px solid #99f;
+}
+
+.sideBar ul.totals li {
+	color: #06F;
+	border-bottom:none;	
+}
+
+.carList{
+	border-bottom:1px solid #e6e6e6;
+	width: 100%;
+}
+
+.carList td {
+	padding: 7px;
+}
+
+.carList .carTitle {
+	min-width: 280px;
+	
+}
+
+.carTitle h3 {
+	color:#06C;
+}
+
+.carList img {
+	width: 100px;
+}
+
+.carDetails img {
+	width: 400px;
+	margin-right: 10px;
+}
+
+.carDetails ul {
+	list-style:none;
+}
+
+.carDetails li {
+	margin-bottom: 10px;
+}
+
+.sideBar {
+	width: 250px;
+	margin-top: 20px;
+	float: right;
+}
+
+.sideBar h2 {
+	background:url(../images/sid_bg_top.png);
+	width: 252px;
+	height: 20px;
+	text-align:center;
+	font-size:13px;
+	color: #fff;
+}
+	
+.sideBar .sbBottom {
+	background: url(../images/side_bg_bottom.png);
+	width: 252px;
+	height: 20px;
+}
+
+.sideBar ul {
+	list-style: none;
+	padding: 10px 2px;
+}
+
+.sideBar li {
+	border-bottom: 1px solid #99F;
+	color:#09C;	
+}
+
+
+.innerContent {
+	width: 520px;
+	float: left;	
+}

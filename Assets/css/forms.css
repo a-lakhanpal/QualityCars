@@ -1,0 +1,61 @@
+/* CSS Document for pages that contain forms */
+
+form, .fieldsWrapper {
+	width: 100%;
+}
+
+table.fields td {
+	padding: 7px;
+}
+
+table.fields {
+	width: 100%;
+	margin-top: 20px;
+}
+
+td.fieldsContainer {
+	vertical-align:top;
+}
+
+.infoPane {
+	width: 150px;
+	border-right: 3px solid #CC6B47;
+	background: #efefef;
+	text-align:center;
+	vertical-align: top;
+}
+
+.fields .submit {
+	font-weight: bold;
+	min-width: 100px;
+	padding: 10px;
+	margin-bottom: 15px;	
+}
+
+.infoPane p {
+	text-align:left;
+	font-size: 0.9em;
+}
+
+.infoPane img {
+	margin: 20px;
+}
+
+input.invalid {
+	border: 2px solid #F00;
+	background: #FFC;	
+}
+
+.error {
+	color: #F00;
+	text-decoration:blink;
+}
+
+.small {
+	font-size: 0.9em;
+}
+
+textarea {
+	width:170px;
+	height: 100px;
+}

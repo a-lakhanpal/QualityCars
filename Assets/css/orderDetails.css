@@ -1,0 +1,33 @@
+/* styling for invoice (order details) */
+
+table.orderDetails {
+	width: 100%;
+	border-collapse:collapse;
+	margin-top: 20px;
+}
+
+.orderDetails td {
+	padding: 6px;
+	border: 1px solid #C96;
+}
+
+table.orderItems {
+	width: 100%;
+	border-collapse:collapse;
+}
+
+td.oiContainer {
+	padding-bottom: 30px;
+}
+
+.orderItems th {
+	background: #ffe6d0;
+	border-bottom: 1px solid #fdbe87;
+	padding: 3px;
+	color: #C60;
+}
+
+.orderItems td {
+	border:none;
+	border-bottom: 1px solid #ffd8b6;
+}

@@ -1,0 +1,126 @@
+/* Global CSS Document */
+
+* {padding: 0; margin: 0;}
+
+body {
+	background: url(../images/bg.gif) repeat-x;
+	font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+
+h1 {
+	font-size: 1.7em;
+	font-weight:normal;
+	color: #CC6B47;	
+}
+
+h2, h3 {color: #CC6B47;}
+
+a {
+	color: #CC6B47;
+	text-decoration:none;
+}
+
+#header, #menu, #mainContent {
+	width: 778px;	
+	margin:0 auto;
+}
+
+#header {
+		height: 110px;
+}
+
+#header img {
+	margin-top:50px;
+	float: left;
+}
+
+#header h1 {
+	float: left;
+	font-size: 4em;
+	padding-top: 40px;
+	text-transform:lowercase;
+	font-weight:normal;
+	letter-spacing: -0.05em;
+}
+
+#menu {
+	background: url(../images/menu_bg.gif) no-repeat;
+	height: 40px;
+}
+
+#menu ul {
+	list-style: none;	
+}
+
+#menu ul li ul {
+	list-style:outside;
+}
+
+#menu ul li ul li {
+	float: none;
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+
+#menu a {
+	color: #ffffff;
+	float: left;
+	font-weight: bold;
+	height: 28px;
+	padding: 12px 20px 0;
+}
+
+#menu li.current a {
+	color: #99F;	
+}
+
+
+a:hover {
+	color: #3060BF;
+}
+
+#mainContent {
+	clear: both;
+}
+
+#mainContent h1, p {
+	margin: 20px 10px;
+}
+
+.center {
+	text-align:center;
+}
+
+.success {
+	color: #063;
+	background: #9FC;
+	border: 1px solid #090;
+	padding: 13px;
+}
+
+a img {
+	border: 0;
+}
+
+.dataGrid {
+	width: 100%;
+	border-collapse:collapse;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:8pt;
+}
+
+.dataGrid th {
+	background:#c9ceff;
+	color: #505ccf;
+	border-bottom:1px solid #9aa3fd;
+	padding: 3px;
+	text-align: left;
+}
+
+.dataGrid td {
+	padding: 5px;
+	border-bottom:1px solid #ddd;
+}

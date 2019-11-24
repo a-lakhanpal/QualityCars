@@ -1,0 +1,63 @@
+
+
+--------------------------------
+Monday 7th of June 2010 01:37:12 AM
+Error: [8] Undefined index:  User <br />
+Line: 17 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\Orders.php <br />PHP 5.2.12 (WINNT ) <br />
+
+
+--------------------------------
+Monday 7th of June 2010 01:39:00 AM
+Error: [8] Undefined index:  User <br />
+Line: 17 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\Orders.php <br />PHP 5.2.12 (WINNT ) <br />
+
+
+--------------------------------
+Monday 7th of June 2010 01:39:40 AM
+Error: [8] Undefined index:  User <br />
+Line: 27 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\Orders.php <br />PHP 5.2.12 (WINNT ) <br />
+
+
+--------------------------------
+Monday 7th of June 2010 01:40:11 AM
+Error: [8] Undefined variable: uid <br />
+Line: 68 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\Orders.php <br />PHP 5.2.12 (WINNT ) <br />
+
+
+--------------------------------
+Monday 7th of June 2010 01:48:47 AM
+Error: [2] odbc_exec() [<a href='function.odbc-exec'>function.odbc-exec</a>]: SQL error: [Microsoft][ODBC Microsoft Access Driver] Syntax error (missing operator) in query expression 'CT_ID ='., SQL state 37000 in SQLExecDirect <br />
+Line: 59 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\DataLayer\DataManager.php <br />PHP 5.2.12 (WINNT ) <br />
+
+
+--------------------------------
+Saturday 3rd of December 2011 03:04:09 PM
+Error: [2] odbc_result() [<a href='function.odbc-result'>function.odbc-result</a>]: SQL error: [Microsoft][ODBC Microsoft Access Driver]Invalid cursor position; no keyset defined , SQL state S1109 in SQLGetData <br />
+Line: 43 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\DataLayer\DataManager.php <br />PHP 5.3.6 (WINNT ) <br />
+
+
+--------------------------------
+Sunday 4th of December 2011 09:05:47 AM
+Error: [2] odbc_result() [<a href='function.odbc-result'>function.odbc-result</a>]: SQL error: [Microsoft][ODBC Microsoft Access Driver]Invalid cursor position; no keyset defined , SQL state S1109 in SQLGetData <br />
+Line: 43 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\DataLayer\DataManager.php <br />PHP 5.3.6 (WINNT ) <br />
+
+
+--------------------------------
+Sunday 4th of December 2011 09:06:17 AM
+Error: [2] odbc_result() [<a href='function.odbc-result'>function.odbc-result</a>]: SQL error: [Microsoft][ODBC Microsoft Access Driver]Invalid cursor position; no keyset defined , SQL state S1109 in SQLGetData <br />
+Line: 43 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\DataLayer\DataManager.php <br />PHP 5.3.6 (WINNT ) <br />
+
+
+--------------------------------
+Sunday 4th of December 2011 09:06:20 AM
+Error: [2] odbc_result() [<a href='function.odbc-result'>function.odbc-result</a>]: SQL error: [Microsoft][ODBC Microsoft Access Driver]Invalid cursor position; no keyset defined , SQL state S1109 in SQLGetData <br />
+Line: 43 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\DataLayer\DataManager.php <br />PHP 5.3.6 (WINNT ) <br />

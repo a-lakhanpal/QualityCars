@@ -1,0 +1,14 @@
+
+
+--------------------------------
+Monday 7th of June 2010 12:44:19 AM
+Error: [2] move_uploaded_file(/wad10s1/soltab01/QualityCarsPHP/DataLayer/Car_Images/car1.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory <br />
+Line: 32 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\Admin\CarTypes.php <br />PHP 5.2.12 (WINNT ) <br />
+
+
+--------------------------------
+Monday 7th of June 2010 01:08:10 AM
+Error: [2] array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array <br />
+Line: 43 <br />
+File: C:\Inetpub\wwwroot\wad10s1\SOLTAB01\QualityCarsPHP\Classes\Page.php <br />PHP 5.2.12 (WINNT ) <br />

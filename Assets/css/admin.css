@@ -1,0 +1,46 @@
+/* CSS Document */
+
+.sbInner {
+	background:#FFC;
+	text-align:center;
+	width: 184px !important;
+}
+
+
+.sideBar {
+	width: 184px;
+	margin-top: 20px;
+	float: right;
+}
+
+.sideBar h2 {
+	background:url(../images/side_bg_top_small.png);
+	width: 184px;
+	height: 20px;
+	text-align:center;
+	font-size:13px;
+	color: #fff;
+}
+	
+.sideBar .sbBottom {
+	background: url(../images/side_bg_bottom_small.png);
+	width: 184px;
+	height: 20px;
+}
+
+.sideBar ul {
+	list-style: none;
+	padding: 10px 2px;
+}
+
+.sideBar li {
+	border-bottom: 1px solid #99F;
+	color:#09C;	
+}
+
+
+.innerContent {
+	width: 580px;
+	float: left;	
+}
+
